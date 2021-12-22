@@ -342,11 +342,10 @@ Apple 계정을 위한 로그인 기능을 제공하려면, Apple Developer 프�
 
 <!-- todo reference 추가 -->
 
-Jacob's DevLog - [https://jacobko.info/uikit/ios-08/](https://jacobko.info/uikit/ios-08/)
+Jacob's DevLog - [https://jacobko.info/firebaseios/ios-firebase-01/](https://jacobko.info/firebaseios/ios-firebase-01/)
 
-..
-...
+firebase documentation - [https://firebase.google.com/docs/auth/ios/start](https://firebase.google.com/docs/auth/ios/start)
 
-..
+How to Sign in to Your iOS App with Email/Password Using Firebase Authentication - [https://medium.com/firebase-developers/ios-firebase-authentication-sdk-email-and-password-login-6a3bb27e0536](https://medium.com/firebase-developers/ios-firebase-authentication-sdk-email-and-password-login-6a3bb27e0536)
 
 fastcampus - [https://fastcampus.co.kr/dev_online_iosappfinal](https://fastcampus.co.kr/dev_online_iosappfinal)
