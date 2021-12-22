@@ -340,8 +340,6 @@ Apple 계정을 위한 로그인 기능을 제공하려면, Apple Developer 프�
 
 ## 🗃 Reference
 
-<!-- todo reference 추가 -->
-
 Jacob's DevLog - [https://jacobko.info/firebaseios/ios-firebase-01/](https://jacobko.info/firebaseios/ios-firebase-01/)
 
 firebase documentation - [https://firebase.google.com/docs/auth/ios/start](https://firebase.google.com/docs/auth/ios/start)
